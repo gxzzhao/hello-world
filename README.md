@@ -5,4 +5,4 @@ This is a rewriting test.
 
 I am also adding more comments to see what will occur.
 
-Let's start with revision 1.
+Let's start with revision 2.
